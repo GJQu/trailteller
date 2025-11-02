@@ -1,0 +1,11 @@
+streamlit
+openai
+python-docx
+pillow
+exifread
+geopy
+pytesseract
+fpdf
+python-dotenv
+plotly
+folium

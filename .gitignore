@@ -1,0 +1,28 @@
+# Virtual environments
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Streamlit settings
+.streamlit/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Notebook and data outputs
+*.ipynb_checkpoints
+data/
+outputs/
+uploads/
+
+# Credentials / keys
+*.json
+*.key
+*.pem
