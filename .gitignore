@@ -26,4 +26,3 @@ uploads/
 *.json
 *.key
 *.pem
-.env
